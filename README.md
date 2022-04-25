@@ -19,9 +19,15 @@ SF Bay Area, CA (Open to Remote)
     - Backbone
     - React
     - SCSS
-- Google Cloud Platform: AppEngine, Compute Engine, Cloud Storage, BigQuery, and others
-- Internationalization (i18n)
 - Localization (l10n)
+- Internationalization (i18n)
+- Google Cloud Platform: 
+    - Monitoring Logs
+    - AppEngine
+    - BigQuery
+    - Compute Engine 
+    - Cloud Storage 
+
 - **Spoken Languages:**  
     - English (primary)
     - Japanese (N1 equivalent)
