@@ -31,7 +31,7 @@ SF Bay Area, CA (Open to Remote)
 
 
 # Work Experience
-## Humble Bundle, San Francisco, CA 
+## [Humble Bundle](https://www.humblebundle.com/), San Francisco, CA 
 ### Software Engineer - Associate, I, II - 2017-present
 - Built code using the full stack of the Python/App Engine/Backbone/Marionette.js codebase from backend to frontend
 - Conducted technical interviews for engineering candidates, with my work being used as the technical interview prompt
@@ -45,7 +45,7 @@ SF Bay Area, CA (Open to Remote)
 - Revamped internal tools internationalization UI to increase business user efficiency by 500%
 - Collaborated with external partners at Lokalise to ensure localization was being properly delivered in EFIGS, Chinese, and Russian, expanding our userbase more than tenfold
 - Implemented site redesigns, collaborating and communicating with stakeholders on product and design each step
-    - Redesigns worked on include Humble Bundle (humblebundle.com) sitewide navigation, marketing/landing pages for various promotions including Humble Choice (flagship subscription service), payment processor menus sitewide, and many more
+    - Redesigns worked on include Humble Bundle sitewide navigation, marketing/landing pages for various promotions including Humble Choice (flagship subscription service), payment processor menus sitewide, and many more
     - Maintained contact with internal and external stakeholders, including product, design, and QA
 - Reorganized sitewide navigation on backend, allowing business side users to customize the elements and dropdowns in sitewide navigation via an internal UI
 - Restructured backend and frontend data for Humble Choice redesign - changed flagship subscription service that previously allowed users to choose 9 of 12 available items to unconditionally give the user all included items, removing the “choosing” step. The launch of this product increased userbase size by 5% month on month.
