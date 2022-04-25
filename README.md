@@ -1,6 +1,8 @@
 # Tony Xie
 (he/him)
+
 Software Engineer Seeking Senior Fullstack Role in Mission-Driven Company
+
 SF Bay Area, CA (Open to Remote) 
 
 # Contact
