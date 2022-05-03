@@ -37,7 +37,7 @@ SF Bay Area, CA (Open to Remote)
 
 # Work Experience
 ## [Humble Bundle](https://www.humblebundle.com/), San Francisco, CA 
-### Software Engineer - Associate, I, II - 2017-present
+### Software Engineer - Associate, I, II - April 2017 - April 2022
 - Built code using the full stack of the Python/App Engine/Backbone/Marionette.js codebase from backend to frontend
 - Conducted technical interviews for engineering candidates, with my work being used as the technical interview prompt
 - Wrote a technical design document for each project (1-2 per quarter), incorporating stakeholder feedback and signoffs
@@ -64,3 +64,8 @@ SF Bay Area, CA (Open to Remote)
 
 # Education
 New York University - BA Linguistics, Computer Science, Web Development
+
+# Other
+- US Citizen
+- No Disabilities
+- Not a Veteran
