@@ -1,4 +1,6 @@
 # Tony Xie
+[[Download PDF](/Tony Xie Resume 2022 May.pdf)]
+
 (he/him)
 
 Software Engineer Seeking Senior Fullstack Role in Mission-Driven Company
