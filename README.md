@@ -5,9 +5,15 @@ Software Engineer Seeking Senior Fullstack Role in Mission-Driven Company
 
 SF Bay Area, CA (Open to Remote) 
 
-# Contact
+## Contact
 **<tony@tonyxie.co>** | [**LinkedIn**](https://linkedin.com/in/tianyi-xie) | [**GitHub**](https://github.com/txie1993)
 
+
+## Info for Recruiters
+- US Citizen
+- No Disabilities
+- Not a Veteran
+- Legal Name is Tianyi Xie, but I've gone by Tony my whole life and will look at you weird if you call me by my full name
 
 ## Skills
 - **Backend:**
@@ -35,9 +41,9 @@ SF Bay Area, CA (Open to Remote)
     - French (Elementary)
 
 
-# Work Experience
-## [Humble Bundle](https://www.humblebundle.com/), San Francisco, CA 
-### Software Engineer - Associate, I, II - April 2017 - April 2022
+## Work Experience
+### [Humble Bundle](https://www.humblebundle.com/), San Francisco, CA 
+#### Software Engineer - Associate, I, II - April 2017 - April 2022
 - Built code using the full stack of the Python/App Engine/Backbone/Marionette.js codebase from backend to frontend
 - Conducted technical interviews for engineering candidates, with my work being used as the technical interview prompt
 - Wrote a technical design document for each project (1-2 per quarter), incorporating stakeholder feedback and signoffs
@@ -56,16 +62,13 @@ SF Bay Area, CA (Open to Remote)
 - Restructured backend and frontend data for Humble Choice redesign - changed flagship subscription service that previously allowed users to choose 9 of 12 available items to unconditionally give the user all included items, removing the “choosing” step. The launch of this product increased userbase size by 5% month on month.
 - Implemented user side OAuth integration with external partner Epic Games, allowing users to claim purchased content using an external account
 
-# Projects and Contributions
+## Projects and Contributions
 - [Project Clippi](https://github.com/vinceau/project-clippi) (2021) - Aided in JavaScript testing and debugging for an Electron data processing application.
 - [IRC Theme for Facebook Messenger](https://chrome.google.com/webstore/detail/irc-inspired-theme-for-fa/jkocbkfbiljhcdjopoeijnhnichhpefb?hl=en) (2019) - Provided a SCSS fix for unreadable text in Facebook Messenger.
 - [Mallard](https://github.com/txie1993/mallard) (2017) - A voice controlled chat bot built with Node, discord.js, and Google Cloud.
 - [Kitsu.io](https://kitsu.io/) (2016) - Open Source contribution to early stage startup, Kitsu.io, to help display business user end data.
 
-# Education
+## Education
 New York University - BA Linguistics, Computer Science, Web Development
 
-# Other
-- US Citizen
-- No Disabilities
-- Not a Veteran
+
