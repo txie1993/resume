@@ -1,5 +1,5 @@
 # Tony Xie
-[[Download PDF](/T Xie Resume 2022 May.pdf)]
+[[Download PDF](/TXieResume.pdf)]
 
 (he/him)
 
