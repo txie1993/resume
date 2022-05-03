@@ -13,7 +13,7 @@ SF Bay Area, CA (Open to Remote)
 - US Citizen
 - No Disabilities
 - Not a Veteran
-- Legal Name is Tianyi Xie, but I've gone by Tony my whole life and will look at you weird if you call me by my full name
+- Full Legal Name is Tianyi Xie, but Tony is strongly preferred
 
 ## Skills
 - **Backend:**
