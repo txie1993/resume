@@ -3,15 +3,15 @@
 
 (he/him)
 
-Software Engineer Seeking Senior Fullstack Role in Mission-Driven Company
+Senior Software Engineer. Not currently seeking a role.
 
-SF Bay Area, CA (Open to Remote) 
+SF Bay Area, CA
 
 ## Contact
 **<tony@tonyxie.co>** | [**LinkedIn**](https://linkedin.com/in/tianyi-xie) | [**GitHub**](https://github.com/txie1993)
 
 
-## Info for Recruiters
+## Additional Info
 - US Citizen
 - No Disabilities
 - Not a Veteran
@@ -44,6 +44,10 @@ SF Bay Area, CA (Open to Remote)
 
 
 ## Work Experience
+### [Affirm](https://www.affirm.com/), San Francisco, CA 
+#### Senior Software Engineer - June 2022 - present
+- Senior Software Engineer on the Merchant Core team.
+
 ### [Humble Bundle](https://www.humblebundle.com/), San Francisco, CA 
 #### Software Engineer - Associate, I, II - April 2017 - April 2022
 - Built code using the full stack of the Python/App Engine/Backbone/Marionette.js codebase from backend to frontend
